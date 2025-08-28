@@ -1,0 +1,35 @@
+{
+  "A1": {
+    "morning": [
+      "Alice",
+      "Bob"
+    ],
+    "mid": [],
+    "night": []
+  },
+  "A2": {
+    "morning": [],
+    "mid": [],
+    "night": []
+  },
+  "A3": {
+    "morning": [],
+    "mid": [],
+    "night": []
+  },
+  "B1": {
+    "morning": [],
+    "mid": [],
+    "night": []
+  },
+  "B2": {
+    "morning": [],
+    "mid": [],
+    "night": []
+  },
+  "B3": {
+    "morning": [],
+    "mid": [],
+    "night": []
+  }
+}
